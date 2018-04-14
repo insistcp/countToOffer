@@ -1,4 +1,4 @@
-package CountToOffer;/*
+package CountToOffer.chapter2;/*
 * ------------------------------------------------------------------
 * Copyright © 2017 Hangzhou DtDream Technology Co.,Lt d. All rights reserved.
 * ------------------------------------------------------------------
@@ -14,8 +14,6 @@ package CountToOffer;/*
 * 2018-02-07     chenpeng sx-9325     ::tada
 * ------------------------------------------------------------------
 */
-
-import java.util.Arrays;
 
 public class CountOneNum10 {
     public int getOne(int n){
