@@ -1,4 +1,4 @@
-package CountToOffer.chapter2;/*
+package CountToOffer;/*
 * ------------------------------------------------------------------
 * Copyright © 2017 Hangzhou DtDream Technology Co.,Lt d. All rights reserved.
 * ------------------------------------------------------------------
